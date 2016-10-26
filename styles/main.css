@@ -1,0 +1,18 @@
+body {
+  background: lightgray; }
+  body h3 {
+    color: green;
+    text-align: center;
+    font-family: times;
+    font-size: 60px; }
+
+.search-bar {
+  width: 50%;
+  background-color: orange;
+  text-align: center; }
+
+#output img {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  border-radius: 30%; }
